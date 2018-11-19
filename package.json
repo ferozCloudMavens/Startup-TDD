@@ -1,0 +1,17 @@
+{
+  "name": "regest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "regex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp continuous-tdd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^6.0.0"
+  }
+}
